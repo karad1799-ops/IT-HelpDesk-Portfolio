@@ -1,2 +1,0 @@
-# Service Now
-coming soon
